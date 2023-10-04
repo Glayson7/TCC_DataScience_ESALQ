@@ -1,0 +1,11 @@
+# Ignorar a pasta de ambientes virtuais
+meu_ambiente/
+
+# Ignorar todos os arquivos .pyc
+*.pyc
+
+# Ignorar a pasta __pycache__
+__pycache__/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
